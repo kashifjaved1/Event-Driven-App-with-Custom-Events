@@ -1,0 +1,6 @@
+@EventDrivenCrud_HostAddress = http://localhost:5069
+
+GET {{EventDrivenCrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
